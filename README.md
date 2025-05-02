@@ -30,12 +30,12 @@ I'm a passionate DevOps engineer with over 5.4 years of experience in designing,
 - 📈 **Monitoring**: Grafana + Prometheus
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 
-###![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-###![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+-->
 ---
 
 ### 📬 Get in Touch
