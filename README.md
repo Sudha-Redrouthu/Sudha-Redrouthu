@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sudha!
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast
 
@@ -40,7 +40,7 @@ I'm a passionate DevOps engineer with over 5.4 years of experience in designing,
 
 ### 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: yourname@email.com
+- LinkedIn: https://www.linkedin.com/in/sudha-redroutu/ 
+- Email: sudharedrouthu.r@gmail.com
 
 > *"Automation is the future, and I’m here to build it!"*
