@@ -36,11 +36,12 @@ I'm a passionate DevOps engineer with over 5.4 years of experience in designing,
 ---
 
 ### 🔧 What I Do
-- ✅ **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps
-- ☁️ **Cloud**: AWS, Azure, Infrastructure as Code (Terraform)
-- 🐳 **Containers**: Docker & Kubernetes
-- 📜 **Automation**: Ansible, Python scripts
-- 📈 **Monitoring**: Grafana + Prometheus
+- ✅ **CI/CD & DevOps Pipelines**: Azure DevOps (YAML), Jenkins, GitHub Actions, GitLab CI/CD  
+- ☁️ **Cloud & Infrastructure**: AWS (EC2, EKS, CloudFormation), Azure (AKS, ARM Templates), Terraform, Cloud Security  
+- 🐳 **Containers & Orchestration**: Docker, Kubernetes, Amazon EKS, Azure AKS, CNk8s  
+- ⚙️ **Scripting & Automation**: Bash, PowerShell, Python, Ansible  
+- 📦 **Artifact Management**: JFrog Artifactory, Sonatype Nexus  
+- 📈 **Monitoring & Observability**: Prometheus, Grafana  
 
 ---
 <!-- 
