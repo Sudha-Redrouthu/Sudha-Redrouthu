@@ -7,6 +7,7 @@ I'm a passionate DevOps engineer with over 5.4 years of experience in designing,
 ---
 
 ### 🛠 Technologies & Tools
+![shell Scripting](https://img.shields.io/badge/Shell Scripting-%233776AB.svg?style=flat&logo=Shell Scripting)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins)
